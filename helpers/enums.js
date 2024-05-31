@@ -9,7 +9,8 @@ const HTTP_METHODS = {
     POST:'POST',
     PUT : 'PUT',
     DELETE:'DELETE',
-    PATCH:'PATCH'
+    PATCH:'PATCH',
+    OPTIONS:'OPTIONS'
 }
 module.exports={
     DATABASE_TABLE_KEYS,
